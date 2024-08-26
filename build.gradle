@@ -6,7 +6,7 @@ plugins {
 sourceCompatibility = JavaVersion.VERSION_17
 targetCompatibility = JavaVersion.VERSION_17
 
-archivesBaseName = project.archives_base_name
+archivesBaseName = 'BotanyPotsOrePlanting'
 version = 'Fabric-'+project.mod_version+'+1.18.2'
 group = project.maven_group
 
